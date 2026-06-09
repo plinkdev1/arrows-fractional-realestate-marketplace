@@ -1,6 +1,6 @@
-﻿<div align="center">
+<div align="center">
 
-# Arrows
+# AI Fractional Real-Estate Marketplace
 
 **An AI-powered fractional real-estate marketplace**
 
