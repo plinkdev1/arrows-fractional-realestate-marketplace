@@ -7,7 +7,6 @@
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![Status](https://img.shields.io/badge/status-MVP-orange)]()
 
 *Browse properties, buy fractional shares, and track a portfolio - with AI-assisted valuation.*
@@ -19,8 +18,6 @@
 ## What Is This?
 
 Arrows is an AI-powered fractional real-estate marketplace. Investors browse property offerings, buy fractional shares, and track holdings and returns from a portfolio dashboard, with AI assisting valuation and insights.
-
-> **Own a fraction. Track the upside. Let AI do the analysis.**
 
 ---
 
@@ -65,8 +62,33 @@ Investor dashboard (portfolio · returns)
 
 ```
 arrows/
+.bolt/
+   config.json
+   prompt
+src/
+   components/
+   contexts/
+   lib/
+   pages/
+   App.tsx
+   index.css
+supabase/
+   migrations/
 .gitignore
-README.md
+COMPLIANCE_IMPLEMENTATION.md
+DASHBOARD_GUIDE.md
+eslint.config.js
+IMPLEMENTATION_COMPLETE.md
+index.html
+package.json
+package-lock.json
+postcss.config.js
+tailwind.config.js
+TEST_USERS_SETUP.sql
+tsconfig.app.json
+tsconfig.json
+tsconfig.node.json
+vite.config.ts
 ```
 
 ---
