@@ -95,7 +95,10 @@ vite.config.ts
 
 ## Screenshots
 
-_Screenshots coming soon._
+<table>
+<tr><td width="50%"><img src="screenshots/01.png" width="100%" /></td><td width="50%"><img src="screenshots/02.png" width="100%" /></td></tr>
+<tr><td width="50%"><img src="screenshots/03.png" width="100%" /></td><td width="50%"><img src="screenshots/04.png" width="100%" /></td></tr>
+</table>
 
 ---
 
